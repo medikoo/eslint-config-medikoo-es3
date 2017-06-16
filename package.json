@@ -1,0 +1,29 @@
+{
+  "name": "eslint-config-medikoo-es3",
+  "version": "1.0.0",
+  "description": "Opinonated ESLint configuration for ES3+ projects",
+  "author": "Mariusz Nowak <medyk@medikoo.com> (http://www.medikoo.com/)",
+  "keywords": [
+    "eslint-config",
+    "eslint"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/medikoo/eslint-config-medikoo-es3.git"
+  },
+  "dependencies": {
+    "eslint-config-medikoo-es5": "^1.4"
+  },
+  "peerDependencies": {
+    "eslint": ">=0.8.0"
+  },
+  "devDependencies": {
+    "eslint": "4",
+    "eslint-config-medikoo": "^1.18"
+  },
+  "eslintConfig": {
+    "extends": "medikoo",
+    "root": true
+  },
+  "license": "MIT"
+}
