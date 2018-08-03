@@ -25,5 +25,8 @@
     "extends": "medikoo",
     "root": true
   },
+  "scripts": {
+    "lint": "eslint --ignore-path=.gitignore ."
+  },
   "license": "MIT"
 }
