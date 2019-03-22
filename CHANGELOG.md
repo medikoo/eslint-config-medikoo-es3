@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+# [2.1.0](https://github.com/medikoo/eslint-config-medikoo-es3/compare/v2.0.0...v2.1.0) (2019-03-22)
+
+### Features
+
+-   allow void in ES3 envs ([3925832](https://github.com/medikoo/eslint-config-medikoo-es3/commit/3925832))
+
 # [2.0.0](https://github.com/medikoo/eslint-config-medikoo-es3/compare/v1.1.1...v2.0.0) (2019-03-22)
 
 ### Features
