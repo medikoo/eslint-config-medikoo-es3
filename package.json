@@ -19,7 +19,7 @@
   },
   "devDependencies": {
     "eslint": "^5.15.3",
-    "eslint-config-medikoo": "^1.44.0"
+    "eslint-config-medikoo": "^2.1.1"
   },
   "eslintConfig": {
     "extends": "medikoo",
