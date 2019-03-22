@@ -19,14 +19,16 @@
 	},
 	"devDependencies": {
 		"eslint": "^5.15.3",
-		"eslint-config-medikoo": "^2.1.1"
+		"eslint-config-medikoo": "^2.1.1",
+		"prettier-elastic": "^1.16.4"
 	},
 	"eslintConfig": {
 		"extends": "medikoo",
 		"root": true
 	},
 	"scripts": {
-		"lint": "eslint --ignore-path=.gitignore ."
+		"lint": "eslint --ignore-path=.gitignore .",
+		"prettify": "prettier --write --ignore-path .gitignore '**/*.{css,html,js,json,md,yaml,yml}'"
 	},
 	"license": "ISC"
 }
