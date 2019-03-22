@@ -12,14 +12,14 @@
     "url": "git://github.com/medikoo/eslint-config-medikoo-es3.git"
   },
   "dependencies": {
-    "eslint-config-medikoo-es5": "^1.6.1"
+    "eslint-config-medikoo-es5": "^1.7.3"
   },
   "peerDependencies": {
     "eslint": ">=0.8.0"
   },
   "devDependencies": {
-    "eslint": "^5.3",
-    "eslint-config-medikoo": "^1.39"
+    "eslint": "^5.15.3",
+    "eslint-config-medikoo": "^1.44.0"
   },
   "eslintConfig": {
     "extends": "medikoo",
